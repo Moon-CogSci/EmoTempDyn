@@ -13,8 +13,8 @@ continuously reports how they feel by moving a white dot on a
 **valence (left-right) by arousal (bottom-top)** grid. After the trials, every
 sound is replayed and rated on two Affective Slider scales.
 
-An interactive tutorial for participants, `collision_pilot_tutorial.py`, has
-its own README (`README.md`).
+An interactive tutorial for participants is in the
+[`tutorial`](../tutorial/) folder (see its [README](../tutorial/README.md)).
 
 ## Session structure
 
@@ -210,5 +210,5 @@ console.
 | File | Purpose |
 |------|---------|
 | `collision_pilot.py` | The task (this document) |
-| `collision_pilot_tutorial.py` | Interactive participant tutorial (see `README.md`) |
+| [`../tutorial/`](../tutorial/) | Interactive participant tutorial (separate folder, with its own README) |
 | `assets/collision_sounds/` | Sound files (not included) |
