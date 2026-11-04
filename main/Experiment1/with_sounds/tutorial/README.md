@@ -123,8 +123,9 @@ Most settings are constants near the top of `collision_pilot_tutorial.py`.
 | `UI_SCALE` | Banner text scale (shrinks automatically on screens shorter than 1080 px) |
 
 The instruction wording lives in the `step_*` functions. Layout, circle size
-and timing match the main task script (`collision_pilot.py`), so keep them in
-sync if you change either one.
+and timing match the main task script in
+[`../main_task/collision_pilot.py`](../main_task/collision_pilot.py), so keep
+them in sync if you change either one.
 
 ## Display notes
 
@@ -138,3 +139,4 @@ overlay. This was checked at 1920x1080, 1600x900, 1536x864, 1366x768 and
 |------|---------|
 | `collision_pilot_tutorial.py` | The tutorial (this document) |
 | `assets/collision_sounds/neutral/` | Optional example-trial sounds (not included) |
+| [`../main_task/`](../main_task/) | The task this tutorial prepares participants for (separate folder, with its own README) |
