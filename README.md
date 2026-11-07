@@ -1,4 +1,5 @@
-# Experiment 1: collision-anticipation affect task (with sounds)
+# Experiment 1: Study 1
+# collision-anticipation affect task (with sounds)
 
 This folder contains the **with-sounds** version of the collision-anticipation
 affect task. On each trial, two same-coloured circles move toward each other.
